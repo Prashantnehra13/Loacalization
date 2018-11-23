@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalizationEx</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_message">When system language changes the text will change into that language</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welkom</string>
+    <string name="welcome_message">Wanneer de taal van het systeem verandert, verandert de tekst in die taal</string>
+</resources>
